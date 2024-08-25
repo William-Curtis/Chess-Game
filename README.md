@@ -1,3 +1,4 @@
+# Chess Game
 This Java program utilizes the Swing GUI widget toolkit to create a fully functioning chess game with its own GUI.
 Its functionalities include:
 * Checking if a piece is moving correctly (Moves like castling and En Passant are incorporated)
